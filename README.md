@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Computer Science & Information Major  <br>🥍 Collegiate Lacrosse Player  <br>📊 Aspiring Data Engineer<br>I'm passionate about coding, solving problems, and building data-driven solutions. I'm constantly learning new programming languages, frameworks, and cloud technologies to become a better engineer.<br>💼Career Goals<br>- Gain hands-on experience through Data Engineering internships<br>- Strengthen my coding and software development skills<br>- Learn modern data tools and cloud technologies<br>- Build projects that solve real-world problems<br>- Continuously improve as an engineer</p>
+<p data-importer="text" align="left">🎓 Computer Science & Information Major  <br>🥍 Collegiate Lacrosse Player  <br>📊 Aspiring Data Engineer<br>I'm passionate about coding, solving problems, and building data-driven solutions. I'm constantly learning new programming languages, frameworks, and cloud technologies to become a better engineer.<br>💼 Career Goals<br>- Gain hands-on experience through Data Engineering internships<br>- Strengthen my coding and software development skills<br>- Learn modern data tools and cloud technologies<br>- Build projects that solve real-world problems<br>- Continuously improve as an engineer</p>
 
 ###
 
